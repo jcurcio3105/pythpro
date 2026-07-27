@@ -1,0 +1,23 @@
+source,year,ticker,parent_company,company_record_count,records_with_product_match,records_with_alias_match,manual_review_record_count
+pubmed,2023,A,Agilent Technologies,378,243,199,372
+pubmed,2023,AVTR,Avantor,1,0,1,1
+pubmed,2023,BGI,BGI Genomics,23,19,4,4
+pubmed,2023,BIO,Bio-Rad Laboratories,718,665,70,448
+pubmed,2023,BRKR,Bruker,637,360,459,620
+pubmed,2023,DHR,Danaher,1040,848,280,886
+pubmed,2023,GH,Guardant Health,34,26,12,34
+pubmed,2023,ILMN,Illumina,3053,1529,2699,3053
+pubmed,2023,MGI,MGI Tech,59,54,14,44
+pubmed,2023,MTD,Mettler-Toledo,17,12,5,12
+pubmed,2023,NTRA,Natera,14,9,6,14
+pubmed,2023,ONT,Oxford Nanopore Technologies,717,271,575,271
+pubmed,2023,PACB,Pacific Biosciences,755,235,641,694
+pubmed,2023,QGEN,QIAGEN,605,514,167,577
+pubmed,2023,RGEN,Repligen,2,1,1,1
+pubmed,2023,RVTY,Revvity,278,239,119,225
+pubmed,2023,SRT,Sartorius,128,81,54,128
+pubmed,2023,TECH,Bio-Techne,262,241,24,214
+pubmed,2023,TMO,Thermo Fisher Scientific,3204,2780,500,2856
+pubmed,2023,TXG,10x Genomics,1078,1030,76,1022
+pubmed,2023,ULTIMA,Ultima Genomics,2,2,1,2
+pubmed,2023,WAT,Waters Corporation,348,332,17,321
